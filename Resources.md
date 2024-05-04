@@ -9,7 +9,6 @@ Server-Side
 * Apache2 Web-Server
 * Tool: Visual Studio Code
 * PHP / Python / Javascript / Truescript / Java ?
-* API's:  ?
 * Database: ?   mariadb (alias mysql) / sqlite3 / postgres
 * Products:<br>
   a) API's for Create, Read and Delete GPS-Data per Device <br> 
